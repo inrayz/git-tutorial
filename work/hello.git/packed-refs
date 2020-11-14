@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+de61d195418c9b4935577576945cfbc2c9b2f6f9 refs/heads/master
+c4802ac51009657a1fd78c19591cf7a329fef8c0 refs/heads/style
+9a3d795a11724861d51222b3206383316d950e86 refs/tags/v1
+b7df86d900c8e9f3df0e4cdc18ea1f932b8e259e refs/tags/v1-beta
